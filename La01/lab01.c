@@ -1,3 +1,8 @@
+// LABORATÓRIO 01
+// COMPUTAÇÃO PARALELA
+// ALUNOS : LUCAS ZANINI DA SILVA - 10417361
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
