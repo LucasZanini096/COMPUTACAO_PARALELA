@@ -1,0 +1,3 @@
+C:/Mackenzie/Quinto Semestre/Computacao_Paralela/Lab05/cmake-build-debug/CMakeFiles/Lab05.dir
+C:/Mackenzie/Quinto Semestre/Computacao_Paralela/Lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Mackenzie/Quinto Semestre/Computacao_Paralela/Lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
